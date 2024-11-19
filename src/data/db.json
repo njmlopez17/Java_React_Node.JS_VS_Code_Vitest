@@ -391,6 +391,12 @@
       "price": 10,
       "categoryId": 1,
       "id": 63
+    },
+    {
+      "name": "TestProd01",
+      "price": 99,
+      "categoryId": 3,
+      "id": 64
     }
   ]
 }
