@@ -1,7 +1,11 @@
-import Onboarding from "../components/Onboarding";
+import ExpandableText from "../components/ExpandableText";
+// import TermsAndConditions from "../components/TermsAndConditions";
+// import Onboarding from "../components/Onboarding";
 
 const PlaygroundPage = () => {
-  return <Onboarding />;
+  return <ExpandableText />;
+  // return <TermsAndConditions />;
+  // return <Onboarding />;
 };
 
 export default PlaygroundPage;
